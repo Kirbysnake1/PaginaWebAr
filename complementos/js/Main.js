@@ -1,4 +1,4 @@
-const textos = ["QA Automatizador", "Python developer"]; // Textos a escribir
+const textos = ["Jr. QA Automatizador", "Trainer Frontend"]; // Textos a escribir
 let contTexto = 0; // Contador del texto actual
 let indice = 0; // Índice de la letra actual
 let textoActual = ''; // Texto actual que se está escribiendo
